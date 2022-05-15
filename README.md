@@ -1,5 +1,5 @@
 # Jmorales-password-generator
-This week's task was to create a Password Generator, to complete the criteria i followed this steps.
+This week's task was to create a Password Generator, to complete the criteria i followed these steps.
 
 everytime the "generate password" button is clicked you are presented with a series of prompts for password criteria
 The desired length for the password will be the first prompt.
